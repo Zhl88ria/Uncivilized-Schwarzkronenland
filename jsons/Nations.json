@@ -3,8 +3,8 @@
 		"name": "Schwarzkronenland",
 		"leaderName": "Schwarz Wahrheit",
 		"adjective": ["Schwarzkronen"],
-		"startBias": ["Hills"]
-		"preferredVictoryType": "Domination", "Scientific" 
+		"startBias": ["Hills"], 
+		"preferredVictoryType":"Domination", "Scientific", 
 		
 		"startIntroPart1": "Heil Wahrheit Dir! Mein Schwarzfuhrer, Schwarzkronen Kriegskraft armies salute you! You are the greatest leader in our history, by your strong hand and sharp sword zhloorian race break the chains of slavery and marches to slaughter the world-wide Kurwinism and degeneration. ",
 		"startIntroPart2": "Now history calls you again, to secure the existence of our people, and future of Zhloorian children. will you build the civilization, that break the slavery again, exterminate herecy of Marxism, and will survive in the sandstorm of times? ",
@@ -15,23 +15,24 @@
 		"introduction": "Heil, I'm Schwarzfuhrer of great Schwarzkronenland, are you my enemy or allie?",
 		
 		"neutralHello": "I'm listen to you.",
-		"neutralLetsHearIt": "Go on."
-		"neutralNo": "Good joke, something else?"
-		"neutralYes": "That's great, deal." 
+		"neutralLetsHearIt": ["Go on."], 
+		"neutralNo": ["Good joke, something else?"], 
+		"neutralYes": ["That's great, deal."], 
 
 		"hateHello": "Mein Zhlooria... What do you want, kurwenknecher?" 
-		"hateLetsHearIt": "Speak bastard!"
-		"hateNo": "Never!" 
-		"hateYes": "Es Doch..." 
+		"hateLetsHearIt": ["Speak bastard!"], 
+		"hateNo": ["Never!"], 
+		"hateYes": ["Es Doch..."], 
 		
 		"afterPeace": "Next time you will be begging me to mercy." 
 		"tradeRequest": "How about that?" 
 		"denounced": "Bruh, btw."
 		"declaringfriendship": "Let's stand together for hailing victory!",
 
-		"outerColor": [0,0,0],
+		"outerColor": [3,3,3],
 		"innerColor": [64,64,64],
-		"unique": "Wahrheit, Macht, Frei!",
+		"uniqueName": "Wahrheit, Macht, Frei!",
+		"uniques": ["[+13]% Strength <for [Land] units> <when attacking>"] 
 		"cities": ["Schwarzfort", "Silborwald", "Ruhrsburg", "Juglasstadt", "Sprotenberg", "Krukenstadt", "Adolfsburg", "Dreiburg", "Solitjude", "Hentaiburg", "Kronensburg", "Wahreitsfort", "Stadlerburg", "Juglasfort", "Rommelsburg", "Himmlerstadt", "Wesselsburg", "Flammenwald", "Inselmeerburg", "Heidrichfort", "Wotansburg", "Stadt Walhalla"]
 	}
 ]
