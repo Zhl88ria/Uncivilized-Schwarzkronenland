@@ -3,7 +3,7 @@
 		"name": "Schwarzkronenland",
 		"leaderName": "Schwarz Wahrheit",
 		"adjective": ["Schwarzkronen"],
-		"startBias": ["Hills"],[avoid "Desert"] 
+		"startBias": ["Hills"]
 		"preferredVictoryType": "Domination", "Scientific" 
 		
 		"startIntroPart1": "Heil Wahrheit Dir! Mein Schwarzfuhrer, Schwarzkronen Kriegskraft armies salute you! You are the greatest leader in our history, by your strong hand and sharp sword zhloorian race break the chains of slavery and marches to slaughter the world-wide Kurwinism and degeneration. ",
