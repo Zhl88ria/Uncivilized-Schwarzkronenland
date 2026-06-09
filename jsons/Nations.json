@@ -4,7 +4,7 @@
 "leaderName":"Schwarz Wahrheit",
 "adjective":["Schwarzkronen"],
 "startBias":["Hills"], 
-"preferredVictoryType":"Domination", "Scientific", 
+"preferredVictoryType":["Domination"], 
 		
 "startIntroPart1":"Heil Wahrheit Dir! Mein Schwarzfuhrer, Schwarzkronen Kriegskraft armies salute you! You are the greatest leader in our history, by your strong hand and sharp sword zhloorian race break the chains of slavery and marches to slaughter the world-wide Kurwinism and degeneration. ",
 "startIntroPart2":"Now history calls you again, to secure the existence of our people, and future of Zhloorian children. will you build the civilization, that break the slavery again, exterminate herecy of Marxism, and will survive in the sandstorm of times? ",
@@ -19,7 +19,7 @@
 "neutralNo": ["Good joke, something else?"], 
 "neutralYes": ["That's great, deal."], 
 
-"hateHello": "Mein Zhlooria... What do you want, kurwenknecher?" 
+"hateHello": "Mein Zhlooria... What do you want, kurwenknecher?", 
 "hateLetsHearIt": ["Speak bastard!"], 
 "hateNo": ["Never!"], 
 "hateYes": ["Es Doch..."], 
