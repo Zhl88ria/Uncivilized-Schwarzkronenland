@@ -31,8 +31,7 @@
 
 "outerColor": [3,3,3],
 "innerColor": [64,64,64],
-"uniqueName": "Wahrheit, Macht, Frei!",
-"uniques": ["[+13]% Strength <for [Land] units> <when attacking>"], 
+"uniqueName": "Wahrheit, Macht, Frei!", 
 "cities": ["Schwarzfort", "Silborwald", "Ruhrsburg", "Juglasstadt", "Sprotenberg", "Krukenstadt", "Adolfsburg", "Dreiburg", "Solitjude", "Hentaiburg", "Kronensburg", "Wahreitsfort", "Stadlerburg", "Juglasfort", "Rommelsburg", "Himmlerstadt", "Wesselsburg", "Flammenwald", "Inselmeerburg", "Heidrichfort", "Wotansburg", "Stadt Walhalla"]
 	}
 ]
