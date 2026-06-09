@@ -29,8 +29,8 @@
 "denounced":"Bruh, btw.", 
 "declaringfriendship":"Let's stand together for hailing victory!",
 
-"outerColor": [8,8,8],
-"innerColor": [88,88,88],
+"outerColor": [88,88,88],
+"innerColor": [8,8,8],
 "uniqueName": "Wahrheit, Macht, Frei!",
 "uniques": ["[-33]% maintenance costs <for [All] units>", "[+13]% Strength <for [Land] units> <when attacking>", "[+13]% Strength <for [Land] units> <during a Golden Age>",
 "[+2 Production] [in all cities] <in cities connected to the capital>", "[+10]% [Culture] [in all cities] <when at war>", "[+10]% [Happiness] [in all cities] <when at war>", "[+10]% [Science] [in all cities] <when at war>" ],
