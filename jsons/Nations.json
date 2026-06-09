@@ -30,7 +30,7 @@
 "declaringfriendship":"Let's stand together for hailing victory!",
 
 "outerColor": [19,19,19],
-"innerColor": [64,64,64],
+"innerColor": [91,91,91],
 "uniqueName": "Wahrheit, Macht, Frei!",
 "uniques": ["[-33]% maintenance costs <for [All] units>", "[+13]% Strength <for [Land] units> <when attacking>", "[+13]% Strength <for [Land] units> <during a Golden Age>",
 "[+2 Production] [in all cities] <in cities connected to the capital>", "[+10]% [Culture] [in all cities] <when at war>", "[+10]% [Happiness] [in all cities] <when at war>", "[+10]% [Science] [in all cities] <when at war>" ],
