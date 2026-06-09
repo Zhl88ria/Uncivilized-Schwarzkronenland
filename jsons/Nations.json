@@ -29,10 +29,10 @@
 "denounced":"Bruh, btw.", 
 "declaringfriendship":"Let's stand together for hailing victory!",
 
-"outerColor": [5,5,5],
-"innerColor": [255,255,255],
+"outerColor": [8,8,8],
+"innerColor": [88,88,88],
 "uniqueName": "Wahrheit, Macht, Frei!",
-"uniques": ["[+13]% Strength <for [Land] units> <when attacking>",
+"uniques": ["[+13]% Strength <for [Land] units> <when attacking>", "[+13]% Strength <for [Land] units> <when attacking> <when [Golden age]>",
 "[+2 Production] [in all cities] <in cities connected to the capital>"],
 		
 "cities": ["Schwarzfort", "Silborwald", "Ruhrsburg", "Juglasstadt", "Sprotenberg", "Krukenstadt", "Adolfsburg", "Dreiburg", "Solitjude", "Hentaiburg", "Kronensburg", "Wahreitsfort", "Stadlerburg", "Juglasfort", "Rommelsburg", "Himmlerstadt", "Wesselsburg", "Flammenwald", "Inselmeerburg", "Heidrichfort", "Wotansburg", "Stadt Walhalla"]
