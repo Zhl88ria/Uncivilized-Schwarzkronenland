@@ -32,7 +32,7 @@
 "outerColor": [8,8,8],
 "innerColor": [88,88,88],
 "uniqueName": "Wahrheit, Macht, Frei!",
-"uniques": ["[-33]% maintenance costs <for [All] units>", "[+13]% Strength <for [Land] units> <when attacking>", "[+13]% Strength <for [Land] units> <when attacking> <during a Golden age>",
+"uniques": ["[-33]% maintenance costs <for [All] units>", "[+13]% Strength <for [Land] units> <when attacking>", "[+13]% Strength <for [Land] units> <during a Golden Age>",
 "[+2 Production] [in all cities] <in cities connected to the capital>", "[+10]% [Culture] [in all cities] <when at war>", "[+10]% [Happiness] [in all cities] <when at war>", "[+10]% [Science] [in all cities] <when at war>" ],
 		
 "cities": ["Schwarzfort", "Silborwald", "Ruhrsburg", "Juglasstadt", "Sprotenberg", "Krukenstadt", "Adolfsburg", "Dreiburg", "Solitjude", "Hentaiburg", "Kronensburg", "Wahreitsfort", "Stadlerburg", "Juglasfort", "Rommelsburg", "Himmlerstadt", "Wesselsburg", "Flammenwald", "Inselmeerburg", "Heidrichfort", "Wotansburg", "Stadt Walhalla"]
