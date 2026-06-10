@@ -10,7 +10,7 @@
 		"promotions": ["Logistics"],
 		"attackSound": "phasers",
 		"uniques": ["comment: Heavily motorized, specialized to deeply attacks on enemy's position in vanguard and assist tank's offense", 
-		"[+13]% Strenght <vs [Armored] units"], 
+		"[+13]% strenght <vs [Armored] units"], 
 	}, 
 
 	{
@@ -25,7 +25,7 @@
 		"promotions": ["Logistics"], 
 		"attackSound": "phasers",
 		"uniques": ["comment: Brave and Courageous soldiers of deadly Schwarzkronen Kriegskraft-grand army, brilliantly can show a real Furor Teutonius", 
-			"[+13]% Strength <vs [Sword] units> <vs [Ranged] units> <vs [Gunpowder Ranged] units"
+			"[+13]% strength <vs [Sword] units> <vs [Ranged] units> <vs [Ranged Gunpowder] units>", 
 		], 
 	}, 
 ]
