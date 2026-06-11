@@ -21,7 +21,7 @@
 		"movement": 2,
 		"strength": 70,
 		"cost": 380,
-		"required tech": "Plastics",
+		"requiredTech": "Plastics",
 		"promotions": ["Logistics"], 
 		"attackSound": "pewpewpew",
 		"uniques": ["Brave and Courageous soldiers of deadly Schwarzkronen Kriegskraft-grand army, brilliantly can show a real Furor Teutonius", 
