@@ -8,7 +8,7 @@
 		"cost": 420,
 		"requiredTech": "Combustion",
 		"promotions": ["Logistics"],
-		"attackSound": "motorpewpewpew",
+		"attackSound": "beetpro-machin-gun-ak47-sound-effect-6-11004",
 		"uniques": ["Heavily motorized, specialized to deeply attacks on enemy's position in vanguard and assist tank's offense", 
 		"[+20]% Strength <vs [Armored]>",], 
 	}, 
@@ -23,7 +23,7 @@
 		"cost": 380,
 		"requiredTech": "Plastics",
 		"promotions": ["Logistics"], 
-		"attackSound": "pewpewpew",
+		"attackSound": "beetpro-machin-gun-ak47-sound-effect-6-11004",
 		"uniques": ["Brave and Courageous soldiers of deadly Schwarzkronen Kriegskraft-grand army, brilliantly can show a real Furor Teutonius", 
 	 
 		], 
